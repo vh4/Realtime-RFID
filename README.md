@@ -3,31 +3,48 @@ this is project to given other people who will buying this project. so this is n
 
 ## A. Features in Program🚀
 
-- [x] Dashboard Admin
-- [x] Dashboar User
+- [x] Dashboard admin
+- [x] Dashboar user
 - [x] Multi Roles user, admin, programmer
 - [x] Arduino rfid data 
 - [x] Node js realtime socket
-- [x] Create Update Delete data
+- [x] Create update elete data
 - [x] Validation is very simple (maybe can hacked)
 
 
 ### How to install :
 
-1. `Import file database such as example.sql
+1. `import file database such as example.sql`
 2. `git clone https://github.com/fathoniwasesojatiTelkom/realtime_rfid`
 3. `chmod -R 777 in folder public/images`
 4. `php artisan migrate`
 5. `change file Admin.php, Login.php, and dashboard.php for:`
 
-      - {$images}        : Admin.php       => { /opt/lampp/htdocs/kantor/{change your want to upload this file image} }
-      - {$BASEURL}  : config.php      => { https://wwww.localhost/{your directiories program is runnning} }
+      - {$images}        : Admin.php       => { /opt/lampp/htdocs/kantor/ {change your want to upload this file image} }
+      - {$BASEURL}       : config.php      => { https://wwww.localhost/ {your directiories program is runnning} }
       - {$pls contain for index.js this is emty%}
 
 6. `/opt/lampp/lampp start`
 
 
-
+## B. Features in Program🚀
+      
+      - dashboard admin
+      
+      ![alt text](https://github.com/fathoniwasesojatiTelkom/realtime_rfid/blob/master/img/tugas2.png)
+      
+      - dashboard user
+      
+      ![alt text](https://github.com/fathoniwasesojatiTelkom/realtime_rfid/blob/master/img/tugas4.png)
+      
+      - database phpmyadmin relationship     
+      
+      ![https://github.com/fathoniwasesojatiTelkom/realtime_rfid/blob/master/img/tugas1.png)
+      
+      - running program      
+      
+      ![https://github.com/fathoniwasesojatiTelkom/realtime_rfid/blob/master/img/tugas5.png)
+      
 
 - 
 ## License
