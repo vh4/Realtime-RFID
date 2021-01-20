@@ -27,7 +27,7 @@ this is project to given other people who will buying this project. so this is n
 6. `/opt/lampp/lampp start`
 
 
-## B. Features in Program🚀
+## B. Screenshoot program 🚀
       
       - dashboard admin
       
@@ -39,11 +39,11 @@ this is project to given other people who will buying this project. so this is n
       
       - database phpmyadmin relationship     
       
-![https://github.com/fathoniwasesojatiTelkom/realtime_rfid/blob/master/img/tugas1.png)
+![alt text](https://github.com/fathoniwasesojatiTelkom/realtime_rfid/blob/master/img/tugas1.png)
       
       - running program      
       
-![https://github.com/fathoniwasesojatiTelkom/realtime_rfid/blob/master/img/tugas5.png)
+![alt text](https://github.com/fathoniwasesojatiTelkom/realtime_rfid/blob/master/img/tugas5.png)
       
 
 - 
