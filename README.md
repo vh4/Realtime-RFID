@@ -45,8 +45,6 @@ this is project to given other people who will buying this project. so this is n
       
 ![alt text](https://github.com/fathoniwasesojatiTelkom/realtime_rfid/blob/master/img/tugas5.png)
       
-
-- 
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
