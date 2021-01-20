@@ -31,19 +31,19 @@ this is project to given other people who will buying this project. so this is n
       
       - dashboard admin
       
-      ![alt text](https://github.com/fathoniwasesojatiTelkom/realtime_rfid/blob/master/img/tugas2.png)
+![alt text](https://github.com/fathoniwasesojatiTelkom/realtime_rfid/blob/master/img/tugas2.png)
       
       - dashboard user
       
-      ![alt text](https://github.com/fathoniwasesojatiTelkom/realtime_rfid/blob/master/img/tugas4.png)
+![alt text](https://github.com/fathoniwasesojatiTelkom/realtime_rfid/blob/master/img/tugas4.png)
       
       - database phpmyadmin relationship     
       
-      ![https://github.com/fathoniwasesojatiTelkom/realtime_rfid/blob/master/img/tugas1.png)
+![https://github.com/fathoniwasesojatiTelkom/realtime_rfid/blob/master/img/tugas1.png)
       
       - running program      
       
-      ![https://github.com/fathoniwasesojatiTelkom/realtime_rfid/blob/master/img/tugas5.png)
+![https://github.com/fathoniwasesojatiTelkom/realtime_rfid/blob/master/img/tugas5.png)
       
 
 - 
