@@ -17,8 +17,7 @@ this is project to given other people who will buying this project. so this is n
 1. `import file database such as example.sql`
 2. `git clone https://github.com/fathoniwasesojatiTelkom/realtime_rfid`
 3. `chmod -R 777 in folder public/images`
-4. `php artisan migrate`
-5. `change file Admin.php, Login.php, and dashboard.php for:`
+4. `change file Admin.php, Login.php, and dashboard.php for:`
 
       - {$images}        : Admin.php       => { /opt/lampp/htdocs/kantor/ {change your want to upload this file image} }
       - {$BASEURL}       : config.php      => { https://wwww.localhost/ {your directiories program is runnning} }
@@ -28,6 +27,11 @@ this is project to given other people who will buying this project. so this is n
 
 
 ## B. Screenshoot program 🚀
+
+      - running program      
+      
+![alt text](https://github.com/fathoniwasesojatiTelkom/realtime_rfid/blob/master/img/tugas5.png)
+      
       
       - dashboard admin
       
@@ -41,11 +45,4 @@ this is project to given other people who will buying this project. so this is n
       
 ![alt text](https://github.com/fathoniwasesojatiTelkom/realtime_rfid/blob/master/img/tugas1.png)
       
-      - running program      
-      
-![alt text](https://github.com/fathoniwasesojatiTelkom/realtime_rfid/blob/master/img/tugas5.png)
-      
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
